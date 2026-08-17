@@ -25,4 +25,16 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/vyswikatta/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
