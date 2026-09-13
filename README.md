@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vyswikatta/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/vyswikatta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vyswikatta/Leetcode/tree/master/0125-valid-palindrome) |
