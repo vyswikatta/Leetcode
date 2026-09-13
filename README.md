@@ -16,6 +16,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/vyswikatta/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vyswikatta/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2057-smallest-index-with-equal-value](https://github.com/vyswikatta/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -95,6 +96,7 @@
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/vyswikatta/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vyswikatta/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -134,6 +136,7 @@
 | [0844-backspace-string-compare](https://github.com/vyswikatta/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vyswikatta/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/vyswikatta/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vyswikatta/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vyswikatta/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vyswikatta/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
