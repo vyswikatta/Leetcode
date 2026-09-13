@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vyswikatta/Leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/vyswikatta/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/vyswikatta/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vyswikatta/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/vyswikatta/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/vyswikatta/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
