@@ -12,11 +12,13 @@
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2057-smallest-index-with-equal-value](https://github.com/vyswikatta/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/vyswikatta/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vyswikatta/Leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/vyswikatta/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/vyswikatta/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
+## Greedy
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/vyswikatta/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+## Counting
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/vyswikatta/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
