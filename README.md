@@ -9,6 +9,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0724-find-pivot-index](https://github.com/vyswikatta/Leetcode/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/vyswikatta/Leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/vyswikatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Geometry
 |  |
