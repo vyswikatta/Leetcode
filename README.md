@@ -33,6 +33,7 @@
 | [0007-reverse-integer](https://github.com/vyswikatta/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
+| [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vyswikatta/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
