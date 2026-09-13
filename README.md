@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/vyswikatta/Leetcode/tree/master/0155-min-stack) |
 ## Primality Test
 |  |
 | ------- |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/vyswikatta/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vyswikatta/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
