@@ -20,6 +20,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/vyswikatta/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/vyswikatta/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/vyswikatta/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/vyswikatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/vyswikatta/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/vyswikatta/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/vyswikatta/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/vyswikatta/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/vyswikatta/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/vyswikatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Geometry
 |  |
