@@ -1,7 +1,7 @@
 char* removeOuterParentheses(char* s) {
     int n = strlen(s);
-    char* result = malloc((n + 1) * sizeof(char));
 
+    char* result = malloc((n + 1) * sizeof(char));
     int balance = 0;
     int j = 0;
 
@@ -10,7 +10,7 @@ char* removeOuterParentheses(char* s) {
         if (s[i] == '(') {
             // Add '(' only if it is not the outermost one
             if (balance > 0) {
-                result[j++] = s[i];
+                result[j++] = '(';
             }
             balance++;
         }
@@ -19,7 +19,7 @@ char* removeOuterParentheses(char* s) {
 
             // Add ')' only if it is not the outermost one
             if (balance > 0) {
-                result[j++] = s[i];
+                result[j++] = ')';
             }
         }
     }
