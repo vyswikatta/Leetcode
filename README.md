@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vyswikatta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vyswikatta/Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -38,4 +40,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
