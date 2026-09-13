@@ -9,6 +9,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0724-find-pivot-index](https://github.com/vyswikatta/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vyswikatta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |
