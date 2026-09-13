@@ -33,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/vyswikatta/Leetcode/tree/master/0125-valid-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0155-min-stack](https://github.com/vyswikatta/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Primality Test
 |  |
 | ------- |
