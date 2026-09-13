@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vyswikatta/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
