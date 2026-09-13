@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/vyswikatta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0724-find-pivot-index](https://github.com/vyswikatta/Leetcode/tree/master/0724-find-pivot-index) |
+| [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0896-monotonic-array](https://github.com/vyswikatta/Leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -45,6 +46,7 @@
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vyswikatta/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vyswikatta/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/vyswikatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
