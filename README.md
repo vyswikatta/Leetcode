@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vyswikatta/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vyswikatta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0724-find-pivot-index](https://github.com/vyswikatta/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0007-reverse-integer](https://github.com/vyswikatta/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
