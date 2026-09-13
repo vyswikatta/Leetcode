@@ -98,6 +98,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyswikatta/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/vyswikatta/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/vyswikatta/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/vyswikatta/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/vyswikatta/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Primality Test
 |  |
@@ -185,8 +187,13 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vyswikatta/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
