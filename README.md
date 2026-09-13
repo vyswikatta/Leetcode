@@ -48,6 +48,7 @@
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
+| [1017-convert-to-base-2](https://github.com/vyswikatta/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vyswikatta/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vyswikatta/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
