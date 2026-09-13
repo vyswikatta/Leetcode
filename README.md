@@ -32,6 +32,7 @@
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vyswikatta/Leetcode/tree/master/0125-valid-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/vyswikatta/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/vyswikatta/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vyswikatta/Leetcode/tree/master/0155-min-stack) |
+| [2000-reverse-prefix-of-word](https://github.com/vyswikatta/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Primality Test
 |  |
 | ------- |
