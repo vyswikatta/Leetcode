@@ -51,6 +51,7 @@
 | [1017-convert-to-base-2](https://github.com/vyswikatta/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vyswikatta/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1362-closest-divisors](https://github.com/vyswikatta/Leetcode/tree/master/1362-closest-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vyswikatta/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2652-sum-multiples](https://github.com/vyswikatta/Leetcode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/vyswikatta/Leetcode/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
