@@ -13,6 +13,7 @@
 | [0896-monotonic-array](https://github.com/vyswikatta/Leetcode/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vyswikatta/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vyswikatta/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2057-smallest-index-with-equal-value](https://github.com/vyswikatta/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2643-row-with-maximum-ones](https://github.com/vyswikatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -57,6 +58,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/vyswikatta/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-closest-divisors](https://github.com/vyswikatta/Leetcode/tree/master/1362-closest-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vyswikatta/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/vyswikatta/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/vyswikatta/Leetcode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/vyswikatta/Leetcode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vyswikatta/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Linked List
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vyswikatta/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyswikatta/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
@@ -166,4 +170,5 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vyswikatta/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
