@@ -45,6 +45,7 @@
 | [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vyswikatta/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/vyswikatta/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2652-sum-multiples](https://github.com/vyswikatta/Leetcode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
