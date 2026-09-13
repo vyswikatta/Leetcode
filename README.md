@@ -59,6 +59,7 @@
 | [0812-largest-triangle-area](https://github.com/vyswikatta/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1017-convert-to-base-2](https://github.com/vyswikatta/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyswikatta/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vyswikatta/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vyswikatta/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-closest-divisors](https://github.com/vyswikatta/Leetcode/tree/master/1362-closest-divisors) |
@@ -93,6 +94,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vyswikatta/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vyswikatta/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vyswikatta/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/vyswikatta/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/vyswikatta/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
