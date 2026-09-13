@@ -35,6 +35,7 @@
 | [0067-add-binary](https://github.com/vyswikatta/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vyswikatta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vyswikatta/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2843-count-symmetric-integers](https://github.com/vyswikatta/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Dynamic Programming
@@ -73,4 +74,16 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vyswikatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/vyswikatta/Leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
